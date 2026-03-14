@@ -7,12 +7,12 @@ Proiectul este construit folosind **React Native** și **Expo**.
 
 Aplicația oferă o suită completă de instrumente pentru fitness:
 
-* ** Planificator Săptămânal:** Pagini individuale pentru fiecare zi a săptămânii (Luni - Duminică) cu rutine de exerciții personalizate.
-* ** Calculator BMI:** Calcularea indicelui de masă corporală pentru monitorizarea greutății.
-* ** Step Counter:** Monitorizarea pașilor parcurși în timp real.
-* ** Timer & StopWatch:** Cronometru integrat pentru gestionarea timpului de efort și a pauzelor.
-* ** Istoric Antrenamente:** Secțiune dedicată pentru vizualizarea progresului și a sesiunilor trecute.
-* ** Profil Utilizator:** Gestionarea datelor personale pentru o experiență personalizată.
+* Planificator Săptămânal: Pagini individuale pentru fiecare zi a săptămânii (Luni - Duminică) cu rutine de exerciții personalizate.
+* Calculator BMI: Calcularea indicelui de masă corporală pentru monitorizarea greutății.
+* Step Counter: Monitorizarea pașilor parcurși în timp real.
+* Timer & StopWatch: Cronometru integrat pentru gestionarea timpului de efort și a pauzelor.
+* Istoric Antrenamente: Secțiune dedicată pentru vizualizarea progresului și a sesiunilor trecute.
+* Profil Utilizator: Gestionarea datelor personale pentru o experiență personalizată.
 
 ## Structura Proiectului
 
